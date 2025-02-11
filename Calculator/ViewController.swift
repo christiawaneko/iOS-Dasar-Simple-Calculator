@@ -71,7 +71,7 @@ class ViewController: UIViewController {
             
             
         }else{
-            showAlert(title: "Error", message: "Silahkan isi Inputan!")
+            showAlert(title: "Error", message: "Silahkan isi Inputan terlebih dahulu!")
         }
         
     }
